@@ -1,0 +1,12 @@
+# Binários e Pastas de Compilação
+build/
+bin/
+*.o
+*.out
+
+# Pasta de arquivos recuperados (Não queremos subir fotos/apks privados pro GitHub)
+output/
+
+# Arquivos temporários do sistema
+.DS_Store
+*.swp
